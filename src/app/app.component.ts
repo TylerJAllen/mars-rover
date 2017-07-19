@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+// import { PhotosListComponent } from './photos-list/photos-list.component';
+import { RoverFormComponent } from './rover-form/rover-form.component';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = '👽🚀🍑';
 }
